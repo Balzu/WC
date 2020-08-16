@@ -12,4 +12,8 @@ Enter _src_ folder and run `python3 cracker.py` with super user permissions.
 You can add any dictionary to be used for password cracking by adding a file in the _dictionaries_ folder
 having one word per line. The first line may start with a _#_ followed by the description of the dictionary. This description is used inside the tool when choosing among distinct dictionaries. 
 
+### Demo
+
+A preview of the tool is shown below, or just take a look at the video on [Youtube](https://www.youtube.com/watch?v=wSc84_jT-cA&t=8s)
+
 <img src="wc.gif" width="100%" >
